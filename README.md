@@ -1,8 +1,10 @@
 ![Status](https://img.shields.io/badge/status-public--standard-blue)
 
-# DigiEmu Core
+# DigiEmu Core — Public Standard
+> A new standard for deterministic and verifiable digital infrastructure.
 
-Deterministic. Verifiable. Reproducible.
+Deterministic. Verifiable. Reproducible.  
+A foundational layer for audit-ready digital systems.
 
 ---
 
